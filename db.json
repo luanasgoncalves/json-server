@@ -1,0 +1,20 @@
+{
+    "categorias": [ {
+        "eletronicos": {
+            "nome": "Samsung a35",
+            "marca": "Samsung",
+            "loja": "Amazon",
+            "precoAntigo": "xxx",
+            "precoPromo": "xxx"
+        },
+
+        "eletrodomesticos": {
+                        "nome": "Samsung a35",
+            "marca": "Samsung",
+            "loja": "Amazon",
+            "precoAntigo": "xxx",
+            "precoPromo": "xxx"
+        }
+      }
+    ]
+}
