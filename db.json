@@ -1,20 +1,34 @@
 {
-    "categorias": [ {
-        "eletronicos": {
-            "nome": "Samsung a35",
-            "marca": "Samsung",
-            "loja": "Amazon",
-            "precoAntigo": "xxx",
-            "precoPromo": "xxx"
-        },
-
-        "eletrodomesticos": {
-                        "nome": "Samsung a35",
-            "marca": "Samsung",
-            "loja": "Amazon",
-            "precoAntigo": "xxx",
-            "precoPromo": "xxx"
-        }
-      }
-    ]
+  "promos": [
+    {
+      "id": 1,
+      "nomeProduto": "Camisa Polo",
+      "imagem": "https://www.hering.com.br/_next/image?url=https%3A%2F%2Fhering.vtexassets.com%2Farquivos%2Fids%2F3853523-880-auto&w=1280&q=100",
+      "preco": 59.9,
+      "precoAntigo": 79.9,
+      "loja": "Hering",
+      "categoria": "roupas",
+      "link": "https://www.hering.com.br/camisa-polo-masculina-manga-curta-com-bordado-3m7x1asn/p?idsku=185827&gad_source=1&gad_campaignid=22510303080&gbraid=0AAAAADxX2JyyBoWyQH0KAvF3MTGI0rtlI&gclid=CjwKCAjwo4rCBhAbEiwAxhJlCSwEXNEUzqTgUkQBOxlClb0mEVpsYkEcWG2E6PCa_DXprooEFaCIIhoCZ4AQAvD_BwE"
+    },
+    {
+      "id": 2,
+      "nomeProduto": "Smartphone Galaxy S24",
+      "imagem": "https://m.media-amazon.com/images/I/71KZXGAb5fL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "preco": 1299,
+      "precoAntigo": 1499,
+      "loja": "Amazon",
+      "categoria": "eletrônicos",
+      "link": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-Selfie-1-120Hz/dp/B0CQD9W98F/ref=asc_df_B0CQD9W98F?mcid=cfd4f6784098375aaf7b7805ba65f337&tag=googleshopp00-20&linkCode=df0&hvadid=709964503130&hvpos=&hvnetw=g&hvrand=11212854945878199727&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9214333&hvtargid=pla-2282134039653&language=pt_BR&gad_source=1&th=1"
+    },
+    {
+      "id": 3,
+      "nomeProduto": "Geladeira Consul Frost Free Duplex",
+      "imagem": "https://images.colombo.com.br/produtos/939098/939098_ConsulGeladeiraCRM44AK_015_g.jpg?ims=550x550",
+      "preco": 2.899,
+      "precoAntigo": 4.339,
+      "loja": "Lojas Colombo",
+      "categoria": "eletrodomésticos",
+      "link": "https://www.colombo.com.br/produto/Eletrodomesticos/Geladeira-Refrigerador-Consul-2-Portas-Frost-Free-386L-Inox-CRM44AK?cor=Inox-seller-1"
+    }
+  ]
 }
