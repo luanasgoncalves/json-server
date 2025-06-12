@@ -14,8 +14,8 @@
       "id": 2,
       "nomeProduto": "Smartphone Galaxy S24",
       "imagem": "https://m.media-amazon.com/images/I/71KZXGAb5fL.__AC_SX300_SY300_QL70_ML2_.jpg",
-      "preco": 1299,
-      "precoAntigo": 1499,
+      "preco": 1.299,
+      "precoAntigo": 1.499,
       "loja": "Amazon",
       "categoria": "eletrônicos",
       "link": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-Selfie-1-120Hz/dp/B0CQD9W98F/ref=asc_df_B0CQD9W98F?mcid=cfd4f6784098375aaf7b7805ba65f337&tag=googleshopp00-20&linkCode=df0&hvadid=709964503130&hvpos=&hvnetw=g&hvrand=11212854945878199727&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9214333&hvtargid=pla-2282134039653&language=pt_BR&gad_source=1&th=1"
@@ -29,6 +29,77 @@
       "loja": "Lojas Colombo",
       "categoria": "eletrodomésticos",
       "link": "https://www.colombo.com.br/produto/Eletrodomesticos/Geladeira-Refrigerador-Consul-2-Portas-Frost-Free-386L-Inox-CRM44AK?cor=Inox-seller-1"
+    },
+    {
+      "id": 4,
+      "nomeProduto": "Vestido Cropped Algodão",
+      "imagem": "https://dresstoshop.vtexassets.com/arquivos/ids/791864-708-1062/produto.webp",
+      "preco": 239,
+      "precoAntigo": 799,
+      "loja": "Dress To",
+      "categoria": "roupas",
+      "link": "https://www.dressto.com.br/vestido-cropped-algodao-bord-mix-estrela-01331917-468/p"
+    },
+    {
+      "id": 5,
+      "nomeProduto": "Batedeira Mondial Prática Black",
+      "imagem": "https://imgs.pontofrio.com.br/55005425/1g.jpg?imwidth=500",
+      "preco": 85.9,
+      "precoAntigo": 103.95,
+      "loja": "Pontofrio",
+      "categoria": "eletrodomésticos",
+      "link": "https://www.pontofrio.com.br/batedeira-mondial-pratica-black-b-44-com-3-velocidades-preta/p/55005425?utm_medium=cpc&utm_source=GP_PLA&IdSku=55005425&idLojista=16&tipoLojista=1P&gclsrc=aw.ds&&utm_campaign=pf_b2c_gg_pmax_core_elpo&gad_source=1&gad_campaignid=17392036699&gbraid=0AAAAAD3aCdN_UKstjn8d6LdEVoUuPOOfL&gclid=Cj0KCQjw0qTCBhCmARIsAAj8C4Z5U4jkVGzyFNv1NGztyLNa0j87De82WPb5J6HpsgeVT0STTdjGhZsaAmaSEALw_wcB"
+    },
+    {
+      "id": 6,
+      "nomeProduto": "Calça Moletom Wide Leg Pantalona",
+      "imagem": "https://images2.marisa.com.br/medias/sys_master/images/images/hf0/hac/16572222799902/Calca-Wide-cor-Bege-Escuro-MRE-P-10056801873-C1.jpg",
+      "preco": 49.99,
+      "precoAntigo": 89.99,
+      "loja": "Marisa",
+      "categoria": "roupas",
+      "link": "https://www.marisa.com.br/cal%c3%a7a-moletom-feminina-wide-leg-pantalona-marisa-marrom/p/10056796438?gad_source=1&gad_campaignid=22187930080&gbraid=0AAAAADuHNNzD4rozLGf4Su05cMt-ZZMx-&gclid=Cj0KCQjw0qTCBhCmARIsAAj8C4aFDSrCCu4P_1RqRxlWlmyfhZv-pGi3rhGrb3D9Wvx1dhgsxk0Msu8aAl7xEALw_wcB&siteName=Marisa"
+    },
+    {
+      "id": 7,
+      "nomeProduto": "Headset Gamer Havit",
+      "imagem": "https://images0.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056874_g.jpg",
+      "preco": 159.9,
+      "precoAntigo": 292.93,
+      "loja": "KaBuM!",
+      "categoria": "eletrônicos",
+      "link": "https://www.kabum.com.br/produto/102770/headset-gamer-havit-drivers-53mm-microfone-plugavel-3-5mm-pc-ps4-xbox-one-preto-hv-h2002d"
+    },
+    {
+      "id": 8,
+      "nomeProduto": "Blusa Cropped Texturizada",
+      "imagem": "https://img.lojasrenner.com.br/item/913872321/original/3.jpg",
+      "preco": 29.9,
+      "precoAntigo": 59.9,
+      "loja": "Marisa",
+      "categoria": "roupas",
+      "link": "https://www.lojasrenner.com.br/p/blusa-cropped-texturizada-com-pesponto-nas-alcas-e-estampa-floral/-/A-913872284-br.lr?sku=913872292"
+    },
+    {
+      "id": 9,
+      "nomeProduto": "Suggar Lavadora de Roupas",
+      "imagem": "https://m.media-amazon.com/images/I/41rECLQvLwL._AC_SX385_.jpg",
+      "preco": 539,
+      "precoAntigo": 599,
+      "loja": "Amazon",
+      "categoria": "eletrodomésticos",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2001BR/dp/B0BSR6FFD8/ref=asc_df_B0BSR6FFD8?mcid=cb74e6c8669831daa225f9887a66d6a5&tag=googleshopp00-20&linkCode=df0&hvadid=709884460999&hvpos=&hvnetw=g&hvrand=11557757107423457943&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102406&hvtargid=pla-2035121133089&language=pt_BR&gad_source=1&th=1"
+    },
+    {
+      "id": 9,
+      "nomeProduto": "Notebook Inspiron 15",
+      "imagem": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3520/media-gallery/notebook-inspiron-15-3520-black-gallery-10.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full",
+      "preco": 3.598,
+      "precoAntigo": 4.306,
+      "loja": "Dell",
+      "categoria": "eletrônicos",
+      "link": "https://www.dell.com/pt-br/shop/notebooks-dell/notebook-inspiron-15/spd/inspiron-15-3520-laptop/i3520wadl1012w6?dbp=1&_gl=1*yl75mb*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw0qTCBhCmARIsAAj8C4bQfcoiOGbu0X6mCVo0DUpifKnX0ppiWzXz12JSBDBqFpOIUyjFSWEaAv2AEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAAD2GwMQ_rvmQe2rLbEzuCHnTWYEut"
     }
-  ]
+  ],
+  "users": []
 }
